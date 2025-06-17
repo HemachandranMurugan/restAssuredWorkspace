@@ -1,0 +1,680 @@
+[ {
+  "name" : "Barcelona Graduate School of Economics",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.barcelonagse.eu/" ],
+  "domains" : [ "barcelonagse.eu" ]
+}, {
+  "name" : "Bircham International University",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.bircham.edu/" ],
+  "domains" : [ "bircham.edu" ]
+}, {
+  "name" : "Universidad de San Pablo CEU",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ceu.es/" ],
+  "domains" : [ "ceu.es" ]
+}, {
+  "name" : "Universidad de Deusto",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.deusto.es/" ],
+  "domains" : [ "deusto.es" ]
+}, {
+  "name" : "Universidad del País Vasco",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ehu.es/" ],
+  "domains" : [ "ehu.es", "ehu.eus" ]
+}, {
+  "name" : "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.esic.es/" ],
+  "domains" : [ "esic.es" ]
+}, {
+  "name" : "Global Business School Barcelona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.global-business-school.org/" ],
+  "domains" : [ "global-business-school.org" ]
+}, {
+  "name" : "IE University",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ie.edu/" ],
+  "domains" : [ "ie.edu" ]
+}, {
+  "name" : "International University of Southern Europe",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.iuse.edu.es/" ],
+  "domains" : [ "iuse.edu.es" ]
+}, {
+  "name" : "La Salle Universities - International Programmes",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.lasalleuniversities.net/" ],
+  "domains" : [ "lasalleuniversities.net" ]
+}, {
+  "name" : "Mondragon Univertsitatea",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.muni.es/" ],
+  "domains" : [ "muni.es", "mundragon.edu" ]
+}, {
+  "name" : "La Salle - Universitat Rámon Llull",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.salleurl.edu/" ],
+  "domains" : [ "salleurl.edu" ]
+}, {
+  "name" : "Schiller International University, Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.schillermadrid.edu/" ],
+  "domains" : [ "schillermadrid.edu" ]
+}, {
+  "name" : "Universitat Autónoma de Barcelona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uab.es/" ],
+  "domains" : [ "uab.es" ]
+}, {
+  "name" : "Universidad de Alicante",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ua.es/" ],
+  "domains" : [ "ua.es" ]
+}, {
+  "name" : "Universidad de Alcalá de Henares",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uah.es/" ],
+  "domains" : [ "uah.es" ]
+}, {
+  "name" : "Universidad de Almería",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ualm.es/" ],
+  "domains" : [ "ualm.es" ]
+}, {
+  "name" : "Universidad Autónoma de Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uam.es/" ],
+  "domains" : [ "uam.es" ]
+}, {
+  "name" : "Universidad Alfonso X El Sabio",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uax.es/" ],
+  "domains" : [ "uax.es" ]
+}, {
+  "name" : "Universitat de Barcelona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ub.es/" ],
+  "domains" : [ "ub.es" ]
+}, {
+  "name" : "Universidad de Burgos",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ubu.es/" ],
+  "domains" : [ "ubu.es" ]
+}, {
+  "name" : "Universidad Carlos III de Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uc3m.es/" ],
+  "domains" : [ "uc3m.es" ]
+}, {
+  "name" : "Universidad de Cádiz",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uca.es/" ],
+  "domains" : [ "uca.es" ]
+}, {
+  "name" : "Universidad Católica San Antonio",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ucam.edu/" ],
+  "domains" : [ "ucam.edu" ]
+}, {
+  "name" : "Universidad Católica de Ávila",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ucavila.es/" ],
+  "domains" : [ "ucavila.es" ]
+}, {
+  "name" : "Universidad Cardenal Herrera-CEU",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uchceu.es/" ],
+  "domains" : [ "uchceu.es" ]
+}, {
+  "name" : "Universidad de Castilla La Mancha",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uclm.es/" ],
+  "domains" : [ "uclm.es" ]
+}, {
+  "name" : "Universidad Complutense de Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ucm.es/" ],
+  "domains" : [ "ucm.es" ]
+}, {
+  "name" : "Universidad de Córdoba",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uco.es/" ],
+  "domains" : [ "uco.es" ]
+}, {
+  "name" : "Universidad Católica de Valencia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ucv.es/" ],
+  "domains" : [ "ucv.es" ]
+}, {
+  "name" : "Universidad de La Coruña",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.udc.es/" ],
+  "domains" : [ "udc.es" ]
+}, {
+  "name" : "Universidad de Gerona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.udg.es/" ],
+  "domains" : [ "udg.es" ]
+}, {
+  "name" : "Universitat de Lleida",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.udl.es/" ],
+  "domains" : [ "udl.es" ]
+}, {
+  "name" : "Universidad Europea de Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uem.es/" ],
+  "domains" : [ "uem.es" ]
+}, {
+  "name" : "Universidad Francisco de Vitoria",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ufv.es/" ],
+  "domains" : [ "ufv.es" ]
+}, {
+  "name" : "Universidad de Granada",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ugr.es/" ],
+  "domains" : [ "ugr.es" ]
+}, {
+  "name" : "Universidad de Huelva",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uhu.es/" ],
+  "domains" : [ "uhu.es" ]
+}, {
+  "name" : "Universidad Internacional de Andalucía",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uia.es/" ],
+  "domains" : [ "uia.es" ]
+}, {
+  "name" : "Universitat de les Illes Balears",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uib.es/" ],
+  "domains" : [ "uib.es" ]
+}, {
+  "name" : "Universitat Internacional de Catalunya",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uic.es/" ],
+  "domains" : [ "uic.es" ]
+}, {
+  "name" : "Universidad Internacional Menéndez Pelayo",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uimp.es/" ],
+  "domains" : [ "uimp.es" ]
+}, {
+  "name" : "Universidad de Jaén",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ujaen.es/" ],
+  "domains" : [ "ujaen.es" ]
+}, {
+  "name" : "Universitat Jaume I de Castellón",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uji.es/" ],
+  "domains" : [ "uji.es" ]
+}, {
+  "name" : "Universidad de La Laguna",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ull.es/" ],
+  "domains" : [ "ull.es" ]
+}, {
+  "name" : "Universidad de Las Palmas de Gran Canaria",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.ulpgc.es/" ],
+  "domains" : [ "ulpgc.es" ]
+}, {
+  "name" : "Universidad de Málaga",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uma.es/" ],
+  "domains" : [ "uma.es" ]
+}, {
+  "name" : "Universidad de Murcia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.um.es/" ],
+  "domains" : [ "um.es" ]
+}, {
+  "name" : "Universidad Miguel Hernández de Elche",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.umh.es/" ],
+  "domains" : [ "umh.es" ]
+}, {
+  "name" : "Universidad Pública de Navarra",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unavarra.es/" ],
+  "domains" : [ "unavarra.es" ]
+}, {
+  "name" : "Universidad de Navarra",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unav.es/" ],
+  "domains" : [ "unav.es" ]
+}, {
+  "name" : "Universidad Nacional de Educación a Distancia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uned.es/" ],
+  "domains" : [ "uned.es" ]
+}, {
+  "name" : "Universidad de Extremadura",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unex.es/" ],
+  "domains" : [ "unex.es" ]
+}, {
+  "name" : "Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uniaam.uia.es/" ],
+  "domains" : [ "uniaam.uia.es" ]
+}, {
+  "name" : "Universidad Loyola Andalucía",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.uloyola.es/" ],
+  "domains" : [ "uloyola.es" ]
+}, {
+  "name" : "Universidad Abierta Interactiva",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uniactiva.com/" ],
+  "domains" : [ "uniactiva.com" ]
+}, {
+  "name" : "Universidad Internacional de Andalucía, Sede La Rábida",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uniara.uia.es/" ],
+  "domains" : [ "uniara.uia.es" ]
+}, {
+  "name" : "Universidad de Cantabria",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unican.es/" ],
+  "domains" : [ "unican.es" ]
+}, {
+  "name" : "Universidad de León",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unileon.es/" ],
+  "domains" : [ "unileon.es" ]
+}, {
+  "name" : "Universidad de Oviedo",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uniovi.es/" ],
+  "domains" : [ "uniovi.es" ]
+}, {
+  "name" : "Universidad de La Rioja",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unirioja.es/" ],
+  "domains" : [ "unirioja.es" ]
+}, {
+  "name" : "Iniciativa Universidad del Atlantico",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.universidadatlantico.org/" ],
+  "domains" : [ "universidadatlantico.org" ]
+}, {
+  "name" : "Universidad de Zaragoza",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unizar.es/" ],
+  "domains" : [ "unizar.es" ]
+}, {
+  "name" : "Universidad Antonio de Nebrija",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.unnet.es/" ],
+  "domains" : [ "unnet.es" ]
+}, {
+  "name" : "Universitat Oberta de Catalunya",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uoc.edu/" ],
+  "domains" : [ "uoc.es", "uoc.edu" ]
+}, {
+  "name" : "Universidad Politécnica de Cataluna",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upc.edu/" ],
+  "domains" : [ "upc.edu" ]
+}, {
+  "name" : "Universidad Pontificia Comillas",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upco.es/" ],
+  "domains" : [ "upco.es" ]
+}, {
+  "name" : "Universidad Politécnica de Cartagena",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upct.es/" ],
+  "domains" : [ "upct.es" ]
+}, {
+  "name" : "Universitat Pompeu Fabra",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upf.es/", "https://www.upf.edu/" ],
+  "domains" : [ "upf.es", "upf.edu" ]
+}, {
+  "name" : "Universidad Politécnica de Madrid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upm.es/" ],
+  "domains" : [ "upm.es" ]
+}, {
+  "name" : "Universidad Pablo de Olavide",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upo.es/" ],
+  "domains" : [ "upo.es" ]
+}, {
+  "name" : "Universidad Pontificia de Salamanca",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upsa.es/" ],
+  "domains" : [ "upsa.es" ]
+}, {
+  "name" : "Universidad Politécnica de Valencia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.upv.es/" ],
+  "domains" : [ "upv.es" ]
+}, {
+  "name" : "Universidad Rey Juan Carlos",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.urjc.es/" ],
+  "domains" : [ "urjc.es", "gsyc.es" ]
+}, {
+  "name" : "Universitat Rámon Llull",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.url.es/" ],
+  "domains" : [ "url.es" ]
+}, {
+  "name" : "Universitat Rovira I Virgili Tarragona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.urv.es/" ],
+  "domains" : [ "urv.es" ]
+}, {
+  "name" : "Universidad de Salamanca",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.usal.es/" ],
+  "domains" : [ "usal.es" ]
+}, {
+  "name" : "Universidad de Santiago de Compostela",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.usc.es/" ],
+  "domains" : [ "usc.es" ]
+}, {
+  "name" : "Universidad de Sevilla",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.us.es/" ],
+  "domains" : [ "us.es" ]
+}, {
+  "name" : "Universidad de Valladolid",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uva.es/" ],
+  "domains" : [ "uva.es" ]
+}, {
+  "name" : "Universidad de Valencia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uv.es/" ],
+  "domains" : [ "uv.es" ]
+}, {
+  "name" : "Universitat de Vic",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uvic.es/" ],
+  "domains" : [ "uvic.es" ]
+}, {
+  "name" : "Universidad de Vigo",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.uvigo.es/" ],
+  "domains" : [ "uvigo.es" ]
+}, {
+  "name" : "Centro Universitario Villanueva",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "http://www.villanueva.edu/" ],
+  "domains" : [ "villanueva.edu" ]
+}, {
+  "name" : "Universidad Internacional Isabel I",
+  "state-province" : "Castilla la mancha",
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.ui1.es/" ],
+  "domains" : [ "ui1.es", "alumnos.ui1.es" ]
+}, {
+  "name" : "ENAE Business School",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.enae.es/" ],
+  "domains" : [ "enae.es" ]
+}, {
+  "name" : "Universidad Internacional de Valencia",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://viu.es/" ],
+  "domains" : [ "viu.es" ]
+}, {
+  "name" : "ESADE Business & Law School",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.esade.edu/en/about-us/law-school" ],
+  "domains" : [ "esade.edu" ]
+}, {
+  "name" : "IESE Business School",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.iese.edu/" ],
+  "domains" : [ "iese.edu" ]
+}, {
+  "name" : "Eada Business School Barcelona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.eada.edu/" ],
+  "domains" : [ "eada.edu" ]
+}, {
+  "name" : "University of Barcelona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://web.ub.edu" ],
+  "domains" : [ "alumnes.ub.edu" ]
+}, {
+  "name" : "University of Girona",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://udg.edu" ],
+  "domains" : [ "campus.udg.edu" ]
+}, {
+  "name" : "Florida Universitaria",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.floridauniversitaria.es/" ],
+  "domains" : [ "floridauniversitaria.es" ]
+}, {
+  "name" : "Universidad CEU Fernando III",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://uf3ceu.es/" ],
+  "domains" : [ "uf3ceu.es" ]
+}, {
+  "name" : "Universidad San Jorge",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.usj.es/" ],
+  "domains" : [ "usj.es" ]
+}, {
+  "name" : "Universidad de las Hespérides",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://hesperides.edu.es/" ],
+  "domains" : [ "hesperides.edu.es" ]
+}, {
+  "name" : "Universidad Europea del Atlántico",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://www.uneatlantico.es/" ],
+  "domains" : [ "uneatlantico.es" ]
+}, {
+  "name" : "ESCP Business School",
+  "state-province" : null,
+  "country" : "Spain",
+  "alpha_two_code" : "ES",
+  "web_pages" : [ "https://escp.eu/madrid" ],
+  "domains" : [ "escp.eu" ]
+} ]
